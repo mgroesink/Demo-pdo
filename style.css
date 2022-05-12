@@ -1,0 +1,20 @@
+.nav-button {
+    font: bold 14pt Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    margin-bottom: 100px;
+  }
+
+  table {
+      font-size:16pt;
+      margin-top: 25px;
+  }
+  h1 {
+      font-size:2.5em;
+  }
